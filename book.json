@@ -17,7 +17,8 @@
         "github-buttons",
         "sharing-plus",
         "anchor-navigation-ex",
-        "favicon"
+        "favicon",
+        "pageview-count"
     ],
     "pluginsConfig": {
         "github": {
